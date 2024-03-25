@@ -51,6 +51,4 @@ The objective was to use Docker Compose to run a containerized Node,js applicati
 
 - Confidently build and manage dynamic applications with Docker Compose.
 - Structure the application with separate services for different components.
-- Integrate databases and external services seamlessly into the containerized environment.
-- Scale the application based on changing requirements.
 - Deploy the containerized application with confidence.
